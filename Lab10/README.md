@@ -1,1 +1,1 @@
-This is my code for Lab10
+This is my code for Lab10. Apologies for the disorganization, please see the Lab10AllCode.mlx for all the required code for this lab. Alternatively, for neater code of just the PMMA plots, check PMMA-stressstrain.mlx. Jpgs of plots are included for example outputs, and .csv files are included so that the .mlx files can be ran and checked.
